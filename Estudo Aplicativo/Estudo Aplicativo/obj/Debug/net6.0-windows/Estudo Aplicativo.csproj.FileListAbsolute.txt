@@ -1,0 +1,17 @@
+C:\Users\brulh\Desktop\repositorios\Estudo Aplicativo\Estudo Aplicativo\bin\Debug\net6.0-windows\Estudo Aplicativo.exe
+C:\Users\brulh\Desktop\repositorios\Estudo Aplicativo\Estudo Aplicativo\bin\Debug\net6.0-windows\Estudo Aplicativo.deps.json
+C:\Users\brulh\Desktop\repositorios\Estudo Aplicativo\Estudo Aplicativo\bin\Debug\net6.0-windows\Estudo Aplicativo.runtimeconfig.json
+C:\Users\brulh\Desktop\repositorios\Estudo Aplicativo\Estudo Aplicativo\bin\Debug\net6.0-windows\Estudo Aplicativo.dll
+C:\Users\brulh\Desktop\repositorios\Estudo Aplicativo\Estudo Aplicativo\bin\Debug\net6.0-windows\Estudo Aplicativo.pdb
+C:\Users\brulh\Desktop\repositorios\Estudo Aplicativo\Estudo Aplicativo\obj\Debug\net6.0-windows\Estudo Aplicativo.csproj.AssemblyReference.cache
+C:\Users\brulh\Desktop\repositorios\Estudo Aplicativo\Estudo Aplicativo\obj\Debug\net6.0-windows\Estudo_Aplicativo.Form1.resources
+C:\Users\brulh\Desktop\repositorios\Estudo Aplicativo\Estudo Aplicativo\obj\Debug\net6.0-windows\Estudo Aplicativo.csproj.GenerateResource.cache
+C:\Users\brulh\Desktop\repositorios\Estudo Aplicativo\Estudo Aplicativo\obj\Debug\net6.0-windows\Estudo Aplicativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brulh\Desktop\repositorios\Estudo Aplicativo\Estudo Aplicativo\obj\Debug\net6.0-windows\Estudo Aplicativo.AssemblyInfoInputs.cache
+C:\Users\brulh\Desktop\repositorios\Estudo Aplicativo\Estudo Aplicativo\obj\Debug\net6.0-windows\Estudo Aplicativo.AssemblyInfo.cs
+C:\Users\brulh\Desktop\repositorios\Estudo Aplicativo\Estudo Aplicativo\obj\Debug\net6.0-windows\Estudo Aplicativo.csproj.CoreCompileInputs.cache
+C:\Users\brulh\Desktop\repositorios\Estudo Aplicativo\Estudo Aplicativo\obj\Debug\net6.0-windows\Estudo Aplicativo.dll
+C:\Users\brulh\Desktop\repositorios\Estudo Aplicativo\Estudo Aplicativo\obj\Debug\net6.0-windows\refint\Estudo Aplicativo.dll
+C:\Users\brulh\Desktop\repositorios\Estudo Aplicativo\Estudo Aplicativo\obj\Debug\net6.0-windows\Estudo Aplicativo.pdb
+C:\Users\brulh\Desktop\repositorios\Estudo Aplicativo\Estudo Aplicativo\obj\Debug\net6.0-windows\Estudo Aplicativo.genruntimeconfig.cache
+C:\Users\brulh\Desktop\repositorios\Estudo Aplicativo\Estudo Aplicativo\obj\Debug\net6.0-windows\ref\Estudo Aplicativo.dll
